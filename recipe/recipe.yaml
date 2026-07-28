@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.1"
+  version: "0.3.2"
 
 package:
   name: idaes-flowsheet-processor
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/i/idaes-flowsheet-processor/idaes_flowsheet_processor-${{ version }}.tar.gz
-  sha256: 59746e6f8648c56d051daac9aa532faa3272f9df295ff784b9736ca779891b1b
+  sha256: 0742c81c2c10df00cd2512e3456ed903fe83188afee090ba3200c7957fce6c50
 
 build:
   number: 0
